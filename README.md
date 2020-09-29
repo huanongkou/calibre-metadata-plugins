@@ -1,7 +1,9 @@
 # calibre-metadata-plugins
 
 > calibre 作为一个老牌的图书管理软件，默认的元数据是从亚马逊和谷歌获取的，访问不快，国内的图书网站如：JD，豆瓣，当当等，也有元数据积累，可以安装相关插件，从这些网站获取。
+
 > calibre有关 metadata 元数据的插件：Plug-ins for Calibre metadata 
+
 > 编写于 20200929
 
 ## 插件清单
